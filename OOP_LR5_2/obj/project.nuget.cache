@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1hHr1TYV6eK1BU+hJwIoIZuss7NfkxKbMJeFNTkK7wq8BBpzXmrBGibwtPY9bRHyVSI5tjqQk4kawpzGMc3pwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\кпа\\Downloads\\Telegram Desktop\\OOP_LR5\\OOP_LR5_2\\OOP_LR5_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\кпа\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\кпа\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\кпа\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
+    "C:\\Users\\кпа\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\bin\Debug\net6.0\OOP_LR5_1.exe
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\bin\Debug\net6.0\OOP_LR5_1.deps.json
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\bin\Debug\net6.0\OOP_LR5_1.runtimeconfig.json
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\bin\Debug\net6.0\OOP_LR5_1.dll
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\bin\Debug\net6.0\OOP_LR5_1.pdb
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\OOP_LR5_1.csproj.AssemblyReference.cache
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\OOP_LR5_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\OOP_LR5_1.AssemblyInfoInputs.cache
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\OOP_LR5_1.AssemblyInfo.cs
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\OOP_LR5_1.csproj.CoreCompileInputs.cache
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\OOP_LR5_1.dll
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\refint\OOP_LR5_1.dll
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\OOP_LR5_1.pdb
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\OOP_LR5_1.genruntimeconfig.cache
+D:\Учеба\ООП\OOP_LR5\OOP_LR5_1\obj\Debug\net6.0\ref\OOP_LR5_1.dll
